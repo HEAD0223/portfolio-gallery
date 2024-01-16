@@ -31,9 +31,8 @@ cd portfolio-gallery
 
 ## Media
 
-![Forest-Parallax](./img/Forest-Parallax.gif)
-![forest-parallax_1](./img/forest-parallax_1.jpg)
-![forest-parallax_2](./img/forest-parallax_2.jpg)
+![Portfolio-Gallery](./img/Portfolio-Gallery.gif)
+![portfolio-gallery_1](./img/portfolio-gallery_1.png)
 
 ## Contributing
 
